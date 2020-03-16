@@ -67,6 +67,7 @@
 			<CommandGroup>ПараметрыСинхронизацииДанных</CommandGroup>
 			<CommonForm>exch_ФормаНастроекОбмена</CommonForm>
 			<DataProcessor>exch_НазначаемыеОбработчики</DataProcessor>
+			<DataProcessor>КонвертацияОбъектовXDTO</DataProcessor>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>

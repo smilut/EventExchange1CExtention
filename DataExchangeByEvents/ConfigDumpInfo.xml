@@ -13,14 +13,16 @@
 		<Metadata name="CommonModule.exch_ОбменДаннымиПроверки" id="04f72553-f8e5-470b-9054-62dc4673cc7e" configVersion="fa8a1d7a046874660082a03bc1d6e514d11d45c6"/>
 		<Metadata name="CommonModule.exch_ОбменДаннымиПроверки.Module" id="04f72553-f8e5-470b-9054-62dc4673cc7e.0" configVersion="d676367e2152d165b1c9573de531c072601dfe25"/>
 		<Metadata name="CommonModule.ОбменДаннымиXDTOСервер" id="f49dc3ee-2ffe-475f-8a8c-1c0850f8df47" configVersion="34577dbbf6416fa3fc6b6fe3f82ff951d24b0d93"/>
-		<Metadata name="CommonModule.ОбменДаннымиXDTOСервер.Module" id="f49dc3ee-2ffe-475f-8a8c-1c0850f8df47.0" configVersion="652eb18aab80dff092690af87152acb6bb49ef88"/>
-		<Metadata name="CommonModule.ОбменДаннымиСервер" id="de9dadd8-014f-40be-9513-191469533b8c" configVersion="2bd2bd3fd65b3fbebcccd623f1b2f7b0e4d5fc30"/>
-		<Metadata name="CommonModule.ОбменДаннымиСервер.Module" id="de9dadd8-014f-40be-9513-191469533b8c.0" configVersion="d84df0bce23e34f90da4a85abdc71a9a64836058"/>
+		<Metadata name="CommonModule.ОбменДаннымиXDTOСервер.Module" id="f49dc3ee-2ffe-475f-8a8c-1c0850f8df47.0" configVersion="f67deac24c639aac674a1fec03f7955e15afebb8"/>
+		<Metadata name="CommonModule.ОбменДаннымиСервер" id="de9dadd8-014f-40be-9513-191469533b8c" configVersion="68401908a1014ed507c7ddf3e62f93b570a7daea"/>
+		<Metadata name="CommonModule.ОбменДаннымиСервер.Module" id="de9dadd8-014f-40be-9513-191469533b8c.0" configVersion="8a1eec9f9590293d66a359f05cf8fcb908245fef"/>
 		<Metadata name="CommonModule.ОбменДаннымиСобытияБП" id="efd5f4f5-e5ca-414c-a24d-7d02b6c96ad3" configVersion="95a1eb7ab89b333612576832226bc048486c8790"/>
-		<Metadata name="CommonModule.ОбменДаннымиСобытияБП.Module" id="efd5f4f5-e5ca-414c-a24d-7d02b6c96ad3.0" configVersion="0b2d5eb763f027c7078eda007027bcb51d66893d"/>
-		<Metadata name="Configuration.СобытийныйОбменДанными" id="d3058e3e-0f52-49c1-aacd-aa6d27459a51" configVersion="d9b44d5570cc6c300e961b38682171d74a6f90bd"/>
+		<Metadata name="CommonModule.ОбменДаннымиСобытияБП.Module" id="efd5f4f5-e5ca-414c-a24d-7d02b6c96ad3.0" configVersion="bfeed8524c7d45489a76c71e1cd2dab9d820862f"/>
+		<Metadata name="Configuration.СобытийныйОбменДанными" id="d3058e3e-0f52-49c1-aacd-aa6d27459a51" configVersion="bda948a67be38ba5b2c8fe7be5af4ea54fd1023d"/>
 		<Metadata name="DataProcessor.exch_НазначаемыеОбработчики" id="d818186e-3c37-45b2-9f3d-9240ed466f9c" configVersion="67ff73bdc17797b511b4ed9c05df5432a23f7315"/>
-		<Metadata name="DataProcessor.exch_НазначаемыеОбработчики.ObjectModule" id="d818186e-3c37-45b2-9f3d-9240ed466f9c.0" configVersion="198ea74c726c9d9a4137eb13697129df4d9a5498"/>
+		<Metadata name="DataProcessor.exch_НазначаемыеОбработчики.ObjectModule" id="d818186e-3c37-45b2-9f3d-9240ed466f9c.0" configVersion="83edbba6804d7a45568b56d6044b29112d37f388"/>
+		<Metadata name="DataProcessor.КонвертацияОбъектовXDTO" id="7283e616-0141-4abd-b785-a9456f92b3ed" configVersion="d6b94d2284037fe960631e42be324872748b0af8"/>
+		<Metadata name="DataProcessor.КонвертацияОбъектовXDTO.ObjectModule" id="7283e616-0141-4abd-b785-a9456f92b3ed.0" configVersion="41db8c92b912a4dca134569362b829a0d7bdcddf"/>
 		<Metadata name="EventSubscription.СинхронизацияДанныхЧерезУниверсальныйФорматРегистрация_СИМ" id="8e7d20e9-2875-4a1c-846f-129bbbfa261b" configVersion="618d34c12b7c1680d06d8e9878abaa5a2e9c3cba"/>
 		<Metadata name="EventSubscription.СинхронизацияДанныхЧерезУниверсальныйФорматРегистрацияДокумента_СИМ" id="dd2dc022-ebef-4893-965d-67ce304d1fa0" configVersion="93ab4a46e8fe33d030d694d40f50fdf6702f1e52"/>
 		<Metadata name="EventSubscription.СинхронизацияДанныхЧерезУниверсальныйФорматРегистрацияНабора_СИМ" id="45878378-29bf-4180-8a1c-94b39f455165" configVersion="7864548400281262d5094544c17c6db7dfe1aaa7"/>
