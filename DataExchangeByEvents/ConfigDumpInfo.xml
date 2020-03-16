@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.9">
+	<ConfigVersions>
+		<Metadata name="CommandGroup.ПараметрыСинхронизацииДанных" id="4ff18378-6e6b-4c11-81ed-0df090134575" configVersion="98fb40e98424db8f3b1d2fef534e94aacb339ff1"/>
+		<Metadata name="CommonCommand.exch_НастройкаОтправкиПоОдномуОбъектуВСообщении" id="31196dc2-eab0-478e-af86-bf3d807c8e66" configVersion="730328cc07aa61f5d84b7bb0b53f2102e869bd4b"/>
+		<Metadata name="CommonCommand.exch_НастройкаОтправкиПоОдномуОбъектуВСообщении.CommandModule" id="31196dc2-eab0-478e-af86-bf3d807c8e66.2" configVersion="b58a3480790524545a6a86c7d2e72bfaaff53d2b"/>
+		<Metadata name="CommonForm.exch_ФормаНастроекОбмена" id="f873f821-2ea2-4326-8623-09a500f797e1" configVersion="ecb9b4beaf5fe215f7a475aa4a2203be7c60b85f"/>
+		<Metadata name="CommonForm.exch_ФормаНастроекОбмена.Form" id="f873f821-2ea2-4326-8623-09a500f797e1.0" configVersion="afe7ef2ceb5b8e3aa7085ffe42edd91b451a099c"/>
+		<Metadata name="CommonModule.exch_ОбменДаннымиНастройки" id="92888d0d-aed4-4c88-a0cc-81c371acf261" configVersion="b995e391f496f1d89bffff14df9db89768909551"/>
+		<Metadata name="CommonModule.exch_ОбменДаннымиНастройки.Module" id="92888d0d-aed4-4c88-a0cc-81c371acf261.0" configVersion="658837b656d79178c1324222c19d87a3816c19e4"/>
+		<Metadata name="CommonModule.exch_ОбменДаннымиПовтИсп" id="f3e4e7a8-a34c-47ec-9a44-95296dcd6300" configVersion="efaf29d955c4ebfb1ec56fc5d0f32994b9de80ca"/>
+		<Metadata name="CommonModule.exch_ОбменДаннымиПовтИсп.Module" id="f3e4e7a8-a34c-47ec-9a44-95296dcd6300.0" configVersion="65e0788ad49803c99b4bc1a3d9eba8616904bfac"/>
+		<Metadata name="CommonModule.exch_ОбменДаннымиПроверки" id="04f72553-f8e5-470b-9054-62dc4673cc7e" configVersion="fa8a1d7a046874660082a03bc1d6e514d11d45c6"/>
+		<Metadata name="CommonModule.exch_ОбменДаннымиПроверки.Module" id="04f72553-f8e5-470b-9054-62dc4673cc7e.0" configVersion="d676367e2152d165b1c9573de531c072601dfe25"/>
+		<Metadata name="CommonModule.ОбменДаннымиXDTOСервер" id="f49dc3ee-2ffe-475f-8a8c-1c0850f8df47" configVersion="34577dbbf6416fa3fc6b6fe3f82ff951d24b0d93"/>
+		<Metadata name="CommonModule.ОбменДаннымиXDTOСервер.Module" id="f49dc3ee-2ffe-475f-8a8c-1c0850f8df47.0" configVersion="652eb18aab80dff092690af87152acb6bb49ef88"/>
+		<Metadata name="CommonModule.ОбменДаннымиСервер" id="de9dadd8-014f-40be-9513-191469533b8c" configVersion="2bd2bd3fd65b3fbebcccd623f1b2f7b0e4d5fc30"/>
+		<Metadata name="CommonModule.ОбменДаннымиСервер.Module" id="de9dadd8-014f-40be-9513-191469533b8c.0" configVersion="d84df0bce23e34f90da4a85abdc71a9a64836058"/>
+		<Metadata name="CommonModule.ОбменДаннымиСобытияБП" id="efd5f4f5-e5ca-414c-a24d-7d02b6c96ad3" configVersion="95a1eb7ab89b333612576832226bc048486c8790"/>
+		<Metadata name="CommonModule.ОбменДаннымиСобытияБП.Module" id="efd5f4f5-e5ca-414c-a24d-7d02b6c96ad3.0" configVersion="0b2d5eb763f027c7078eda007027bcb51d66893d"/>
+		<Metadata name="Configuration.СобытийныйОбменДанными" id="d3058e3e-0f52-49c1-aacd-aa6d27459a51" configVersion="d9b44d5570cc6c300e961b38682171d74a6f90bd"/>
+		<Metadata name="DataProcessor.exch_НазначаемыеОбработчики" id="d818186e-3c37-45b2-9f3d-9240ed466f9c" configVersion="67ff73bdc17797b511b4ed9c05df5432a23f7315"/>
+		<Metadata name="DataProcessor.exch_НазначаемыеОбработчики.ObjectModule" id="d818186e-3c37-45b2-9f3d-9240ed466f9c.0" configVersion="198ea74c726c9d9a4137eb13697129df4d9a5498"/>
+		<Metadata name="EventSubscription.СинхронизацияДанныхЧерезУниверсальныйФорматРегистрация_СИМ" id="8e7d20e9-2875-4a1c-846f-129bbbfa261b" configVersion="618d34c12b7c1680d06d8e9878abaa5a2e9c3cba"/>
+		<Metadata name="EventSubscription.СинхронизацияДанныхЧерезУниверсальныйФорматРегистрацияДокумента_СИМ" id="dd2dc022-ebef-4893-965d-67ce304d1fa0" configVersion="93ab4a46e8fe33d030d694d40f50fdf6702f1e52"/>
+		<Metadata name="EventSubscription.СинхронизацияДанныхЧерезУниверсальныйФорматРегистрацияНабора_СИМ" id="45878378-29bf-4180-8a1c-94b39f455165" configVersion="7864548400281262d5094544c17c6db7dfe1aaa7"/>
+		<Metadata name="EventSubscription.СинхронизацияДанныхЧерезУниверсальныйФорматРегистрацияУдаления_СИМ" id="47cd3aa1-f817-4918-9c84-1c443e5b91a2" configVersion="0dc2660d08cfb4ec018908e3313dd1636715904c"/>
+		<Metadata name="ExchangePlan.СинхронизацияДанныхЧерезУниверсальныйФормат_СИМ" id="0707116e-c58a-42e8-9cd7-f16749ad5b80" configVersion="d1db7cdc77f034ecc1142b64f741896a7a567d9d"/>
+		<Metadata name="Language.Русский" id="a4037593-bf6f-4d71-be56-32abc2b92272" configVersion="9f7815c1d35134a1ebd9cca3cc8cb315b78951ec"/>
+	</ConfigVersions>
+</ConfigDumpInfo>

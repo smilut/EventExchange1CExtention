@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.9">
+	<ExchangePlan uuid="0707116e-c58a-42e8-9cd7-f16749ad5b80">
+		<InternalInfo>
+			<xr:ThisNode>536cabe6-faa8-4df3-8678-4e8602606203</xr:ThisNode>
+			<xr:GeneratedType name="ExchangePlanObject.СинхронизацияДанныхЧерезУниверсальныйФормат_СИМ" category="Object">
+				<xr:TypeId>6034c086-ec88-4af6-b711-5f174b717175</xr:TypeId>
+				<xr:ValueId>836acdb3-9eb5-49a3-836b-de8af364bedf</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="ExchangePlanRef.СинхронизацияДанныхЧерезУниверсальныйФормат_СИМ" category="Ref">
+				<xr:TypeId>b6de7b0c-42db-40db-adb0-3c1babe7b4d8</xr:TypeId>
+				<xr:ValueId>4c33d67f-b356-4d08-b2ad-28f0ba150636</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="ExchangePlanSelection.СинхронизацияДанныхЧерезУниверсальныйФормат_СИМ" category="Selection">
+				<xr:TypeId>eafeffd1-4e18-4517-8e1d-0cbe5b63e3d3</xr:TypeId>
+				<xr:ValueId>2acbd789-aafc-43a0-b291-21d682e48d29</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="ExchangePlanList.СинхронизацияДанныхЧерезУниверсальныйФормат_СИМ" category="List">
+				<xr:TypeId>0990499c-3514-4586-9cf7-9a51bc5f100e</xr:TypeId>
+				<xr:ValueId>37dca36e-27bf-47af-9778-309a72430afc</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="ExchangePlanManager.СинхронизацияДанныхЧерезУниверсальныйФормат_СИМ" category="Manager">
+				<xr:TypeId>bddd9404-05d8-44ee-b895-a21436b2483e</xr:TypeId>
+				<xr:ValueId>ce8d6003-2810-4c40-820e-5bbe9db656b8</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>СинхронизацияДанныхЧерезУниверсальныйФормат_СИМ</Name>
+			<Comment/>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+		</Properties>
+		<ChildObjects/>
+	</ExchangePlan>
+</MetaDataObject>
