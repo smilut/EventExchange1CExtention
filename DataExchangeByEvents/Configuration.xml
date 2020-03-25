@@ -52,6 +52,8 @@
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
+			<CommonTemplate>exch_PinkRabbitMQ_AddIn</CommonTemplate>
+			<CommonTemplate>exch_PinkRabbitMQ_AddIn32</CommonTemplate>
 			<CommonModule>ОбменДаннымиXDTOСервер</CommonModule>
 			<CommonModule>exch_ОбменДаннымиНастройки</CommonModule>
 			<CommonModule>ОбменДаннымиСервер</CommonModule>
@@ -59,15 +61,12 @@
 			<CommonModule>exch_ОбменДаннымиПовтИсп</CommonModule>
 			<CommonModule>exch_ОбменДаннымиПроверки</CommonModule>
 			<ExchangePlan>СинхронизацияДанныхЧерезУниверсальныйФормат_СИМ</ExchangePlan>
-			<EventSubscription>СинхронизацияДанныхЧерезУниверсальныйФорматРегистрация_СИМ</EventSubscription>
-			<EventSubscription>СинхронизацияДанныхЧерезУниверсальныйФорматРегистрацияУдаления_СИМ</EventSubscription>
-			<EventSubscription>СинхронизацияДанныхЧерезУниверсальныйФорматРегистрацияДокумента_СИМ</EventSubscription>
-			<EventSubscription>СинхронизацияДанныхЧерезУниверсальныйФорматРегистрацияНабора_СИМ</EventSubscription>
 			<CommonCommand>exch_НастройкаОтправкиПоОдномуОбъектуВСообщении</CommonCommand>
 			<CommandGroup>ПараметрыСинхронизацииДанных</CommandGroup>
 			<CommonForm>exch_ФормаНастроекОбмена</CommonForm>
 			<DataProcessor>exch_НазначаемыеОбработчики</DataProcessor>
 			<DataProcessor>КонвертацияОбъектовXDTO</DataProcessor>
+			<DataProcessor>exch_ТранспортСообщенийОбменаHTTPRabbitMQ</DataProcessor>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
