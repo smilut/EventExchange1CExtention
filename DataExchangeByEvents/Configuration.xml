@@ -67,6 +67,7 @@
 			<DataProcessor>exch_НазначаемыеОбработчики</DataProcessor>
 			<DataProcessor>КонвертацияОбъектовXDTO</DataProcessor>
 			<DataProcessor>exch_ТранспортСообщенийОбменаHTTPRabbitMQ</DataProcessor>
+			<DataProcessor>exch_ПомощникСозданияОбменаДанными</DataProcessor>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
