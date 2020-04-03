@@ -65,6 +65,60 @@
 					<ContextMenu name="УзлыУзелКонтекстноеМеню" id="15"/>
 					<ExtendedTooltip name="УзлыУзелРасширеннаяПодсказка" id="16"/>
 				</InputField>
+				<InputField name="УзлыАдресСервера" id="29">
+					<DataPath>Узлы.АдресСервера</DataPath>
+					<EditMode>EnterOnInput</EditMode>
+					<ContextMenu name="УзлыАдресСервераКонтекстноеМеню" id="30"/>
+					<ExtendedTooltip name="УзлыАдресСервераРасширеннаяПодсказка" id="31"/>
+				</InputField>
+				<InputField name="УзлыПорт" id="32">
+					<DataPath>Узлы.Порт</DataPath>
+					<EditMode>EnterOnInput</EditMode>
+					<ContextMenu name="УзлыПортКонтекстноеМеню" id="33"/>
+					<ExtendedTooltip name="УзлыПортРасширеннаяПодсказка" id="34"/>
+				</InputField>
+				<InputField name="УзлыVHost" id="35">
+					<DataPath>Узлы.VHost</DataPath>
+					<EditMode>EnterOnInput</EditMode>
+					<ContextMenu name="УзлыVHostКонтекстноеМеню" id="36"/>
+					<ExtendedTooltip name="УзлыVHostРасширеннаяПодсказка" id="37"/>
+				</InputField>
+				<InputField name="УзлыExchange" id="38">
+					<DataPath>Узлы.Exchange</DataPath>
+					<EditMode>EnterOnInput</EditMode>
+					<ContextMenu name="УзлыExchangeКонтекстноеМеню" id="39"/>
+					<ExtendedTooltip name="УзлыExchangeРасширеннаяПодсказка" id="40"/>
+				</InputField>
+				<InputField name="УзлыИмяОчередиВходящихСообщений" id="23">
+					<DataPath>Узлы.ИмяОчередиВходящихСообщений</DataPath>
+					<EditMode>EnterOnInput</EditMode>
+					<ContextMenu name="УзлыИмяОчередиВходящихСообщенийКонтекстноеМеню" id="24"/>
+					<ExtendedTooltip name="УзлыИмяОчередиВходящихСообщенийРасширеннаяПодсказка" id="25"/>
+				</InputField>
+				<InputField name="УзлыИмяОчередиИсходящихСообщений" id="26">
+					<DataPath>Узлы.ИмяОчередиИсходящихСообщений</DataPath>
+					<EditMode>EnterOnInput</EditMode>
+					<ContextMenu name="УзлыИмяОчередиИсходящихСообщенийКонтекстноеМеню" id="27"/>
+					<ExtendedTooltip name="УзлыИмяОчередиИсходящихСообщенийРасширеннаяПодсказка" id="28"/>
+				</InputField>
+				<InputField name="УзлыПользователь" id="41">
+					<DataPath>Узлы.Пользователь</DataPath>
+					<EditMode>EnterOnInput</EditMode>
+					<ContextMenu name="УзлыПользовательКонтекстноеМеню" id="42"/>
+					<ExtendedTooltip name="УзлыПользовательРасширеннаяПодсказка" id="43"/>
+				</InputField>
+				<InputField name="УзлыПароль" id="44">
+					<DataPath>Узлы.Пароль</DataPath>
+					<EditMode>EnterOnInput</EditMode>
+					<ContextMenu name="УзлыПарольКонтекстноеМеню" id="45"/>
+					<ExtendedTooltip name="УзлыПарольРасширеннаяПодсказка" id="46"/>
+				</InputField>
+				<InputField name="УзлыТаймаут" id="47">
+					<DataPath>Узлы.Таймаут</DataPath>
+					<EditMode>EnterOnInput</EditMode>
+					<ContextMenu name="УзлыТаймаутКонтекстноеМеню" id="48"/>
+					<ExtendedTooltip name="УзлыТаймаутРасширеннаяПодсказка" id="49"/>
+				</InputField>
 			</ChildItems>
 		</Table>
 	</ChildItems>
@@ -89,6 +143,143 @@
 					</Title>
 					<Type>
 						<v8:TypeSet>cfg:ExchangePlanRef</v8:TypeSet>
+					</Type>
+				</Column>
+				<Column name="ИмяОчередиВходящихСообщений" id="2">
+					<Title>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Имя входящей очереди</v8:content>
+						</v8:item>
+					</Title>
+					<Type>
+						<v8:Type>xs:string</v8:Type>
+						<v8:StringQualifiers>
+							<v8:Length>0</v8:Length>
+							<v8:AllowedLength>Variable</v8:AllowedLength>
+						</v8:StringQualifiers>
+					</Type>
+				</Column>
+				<Column name="ИмяОчередиИсходящихСообщений" id="3">
+					<Title>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Имя исходящей очереди</v8:content>
+						</v8:item>
+					</Title>
+					<Type>
+						<v8:Type>xs:string</v8:Type>
+						<v8:StringQualifiers>
+							<v8:Length>0</v8:Length>
+							<v8:AllowedLength>Variable</v8:AllowedLength>
+						</v8:StringQualifiers>
+					</Type>
+				</Column>
+				<Column name="АдресСервера" id="4">
+					<Title>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Адрес сервера</v8:content>
+						</v8:item>
+					</Title>
+					<Type>
+						<v8:Type>xs:string</v8:Type>
+						<v8:StringQualifiers>
+							<v8:Length>0</v8:Length>
+							<v8:AllowedLength>Variable</v8:AllowedLength>
+						</v8:StringQualifiers>
+					</Type>
+				</Column>
+				<Column name="Порт" id="5">
+					<Title>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Порт</v8:content>
+						</v8:item>
+					</Title>
+					<Type>
+						<v8:Type>xs:decimal</v8:Type>
+						<v8:NumberQualifiers>
+							<v8:Digits>10</v8:Digits>
+							<v8:FractionDigits>0</v8:FractionDigits>
+							<v8:AllowedSign>Any</v8:AllowedSign>
+						</v8:NumberQualifiers>
+					</Type>
+				</Column>
+				<Column name="VHost" id="6">
+					<Title>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>V host</v8:content>
+						</v8:item>
+					</Title>
+					<Type>
+						<v8:Type>xs:string</v8:Type>
+						<v8:StringQualifiers>
+							<v8:Length>0</v8:Length>
+							<v8:AllowedLength>Variable</v8:AllowedLength>
+						</v8:StringQualifiers>
+					</Type>
+				</Column>
+				<Column name="Exchange" id="7">
+					<Title>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Exchange</v8:content>
+						</v8:item>
+					</Title>
+					<Type>
+						<v8:Type>xs:string</v8:Type>
+						<v8:StringQualifiers>
+							<v8:Length>0</v8:Length>
+							<v8:AllowedLength>Variable</v8:AllowedLength>
+						</v8:StringQualifiers>
+					</Type>
+				</Column>
+				<Column name="Пользователь" id="8">
+					<Title>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Пользователь</v8:content>
+						</v8:item>
+					</Title>
+					<Type>
+						<v8:Type>xs:string</v8:Type>
+						<v8:StringQualifiers>
+							<v8:Length>0</v8:Length>
+							<v8:AllowedLength>Variable</v8:AllowedLength>
+						</v8:StringQualifiers>
+					</Type>
+				</Column>
+				<Column name="Пароль" id="9">
+					<Title>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Пароль</v8:content>
+						</v8:item>
+					</Title>
+					<Type>
+						<v8:Type>xs:string</v8:Type>
+						<v8:StringQualifiers>
+							<v8:Length>0</v8:Length>
+							<v8:AllowedLength>Variable</v8:AllowedLength>
+						</v8:StringQualifiers>
+					</Type>
+				</Column>
+				<Column name="Таймаут" id="10">
+					<Title>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Таймаут, мсек</v8:content>
+						</v8:item>
+					</Title>
+					<Type>
+						<v8:Type>xs:decimal</v8:Type>
+						<v8:NumberQualifiers>
+							<v8:Digits>10</v8:Digits>
+							<v8:FractionDigits>0</v8:FractionDigits>
+							<v8:AllowedSign>Any</v8:AllowedSign>
+						</v8:NumberQualifiers>
 					</Type>
 				</Column>
 			</Columns>

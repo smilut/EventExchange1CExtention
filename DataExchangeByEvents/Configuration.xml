@@ -57,14 +57,13 @@
 			<CommonModule>ОбменДаннымиXDTOСервер</CommonModule>
 			<CommonModule>exch_ОбменДаннымиНастройки</CommonModule>
 			<CommonModule>ОбменДаннымиСервер</CommonModule>
-			<CommonModule>ОбменДаннымиСобытияБП</CommonModule>
 			<CommonModule>exch_ОбменДаннымиПовтИсп</CommonModule>
 			<CommonModule>exch_ОбменДаннымиПроверки</CommonModule>
+			<CommonModule>exch_ОбменДаннымиЗарегистрированныеИзменения</CommonModule>
 			<ExchangePlan>СинхронизацияДанныхЧерезУниверсальныйФормат_СИМ</ExchangePlan>
 			<CommonCommand>exch_НастройкаОтправкиПоОдномуОбъектуВСообщении</CommonCommand>
 			<CommandGroup>ПараметрыСинхронизацииДанных</CommandGroup>
 			<CommonForm>exch_ФормаНастроекОбмена</CommonForm>
-			<DataProcessor>exch_НазначаемыеОбработчики</DataProcessor>
 			<DataProcessor>КонвертацияОбъектовXDTO</DataProcessor>
 			<DataProcessor>exch_ТранспортСообщенийОбменаHTTPRabbitMQ</DataProcessor>
 			<DataProcessor>exch_ПомощникСозданияОбменаДанными</DataProcessor>

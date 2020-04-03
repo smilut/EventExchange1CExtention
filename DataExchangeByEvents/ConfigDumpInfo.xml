@@ -1,30 +1,28 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.9">
 	<ConfigVersions>
-		<Metadata name="CommandGroup.ПараметрыСинхронизацииДанных" id="4ff18378-6e6b-4c11-81ed-0df090134575" configVersion="98fb40e98424db8f3b1d2fef534e94aacb339ff1"/>
+		<Metadata name="CommandGroup.ПараметрыСинхронизацииДанных" id="4ff18378-6e6b-4c11-81ed-0df090134575" configVersion="fd6b6838903259527cec9ffb0f51400191b487ee"/>
 		<Metadata name="CommonCommand.exch_НастройкаОтправкиПоОдномуОбъектуВСообщении" id="31196dc2-eab0-478e-af86-bf3d807c8e66" configVersion="730328cc07aa61f5d84b7bb0b53f2102e869bd4b"/>
-		<Metadata name="CommonCommand.exch_НастройкаОтправкиПоОдномуОбъектуВСообщении.CommandModule" id="31196dc2-eab0-478e-af86-bf3d807c8e66.2" configVersion="b58a3480790524545a6a86c7d2e72bfaaff53d2b"/>
+		<Metadata name="CommonCommand.exch_НастройкаОтправкиПоОдномуОбъектуВСообщении.CommandModule" id="31196dc2-eab0-478e-af86-bf3d807c8e66.2" configVersion="8488d82e0ec667f3931d908c8d533d73815cc0c2"/>
 		<Metadata name="CommonForm.exch_ФормаНастроекОбмена" id="f873f821-2ea2-4326-8623-09a500f797e1" configVersion="ecb9b4beaf5fe215f7a475aa4a2203be7c60b85f"/>
-		<Metadata name="CommonForm.exch_ФормаНастроекОбмена.Form" id="f873f821-2ea2-4326-8623-09a500f797e1.0" configVersion="afe7ef2ceb5b8e3aa7085ffe42edd91b451a099c"/>
+		<Metadata name="CommonForm.exch_ФормаНастроекОбмена.Form" id="f873f821-2ea2-4326-8623-09a500f797e1.0" configVersion="54c0c853e6d7b6dfce97da5d1c3efe039d17140b"/>
+		<Metadata name="CommonModule.exch_ОбменДаннымиЗарегистрированныеИзменения" id="cd8d76e5-c119-4849-8175-88af267ce518" configVersion="27670b7007c165ef998d9515043ed30d151228ad"/>
+		<Metadata name="CommonModule.exch_ОбменДаннымиЗарегистрированныеИзменения.Module" id="cd8d76e5-c119-4849-8175-88af267ce518.0" configVersion="819aee3b0f65e219115c68302f2ed4a47ed0542b"/>
 		<Metadata name="CommonModule.exch_ОбменДаннымиНастройки" id="92888d0d-aed4-4c88-a0cc-81c371acf261" configVersion="b995e391f496f1d89bffff14df9db89768909551"/>
-		<Metadata name="CommonModule.exch_ОбменДаннымиНастройки.Module" id="92888d0d-aed4-4c88-a0cc-81c371acf261.0" configVersion="1d9cd0721e61aa1793ae785f192d73fdf1e3f9f5"/>
+		<Metadata name="CommonModule.exch_ОбменДаннымиНастройки.Module" id="92888d0d-aed4-4c88-a0cc-81c371acf261.0" configVersion="7cf1080d3747a87bd4a13c28e5032592edb9422e"/>
 		<Metadata name="CommonModule.exch_ОбменДаннымиПовтИсп" id="f3e4e7a8-a34c-47ec-9a44-95296dcd6300" configVersion="efaf29d955c4ebfb1ec56fc5d0f32994b9de80ca"/>
-		<Metadata name="CommonModule.exch_ОбменДаннымиПовтИсп.Module" id="f3e4e7a8-a34c-47ec-9a44-95296dcd6300.0" configVersion="f27157217f6b81bd69cd0588e013f0e493599ec4"/>
+		<Metadata name="CommonModule.exch_ОбменДаннымиПовтИсп.Module" id="f3e4e7a8-a34c-47ec-9a44-95296dcd6300.0" configVersion="68e0cc0f41552653b149becff69fdef31cfd02f7"/>
 		<Metadata name="CommonModule.exch_ОбменДаннымиПроверки" id="04f72553-f8e5-470b-9054-62dc4673cc7e" configVersion="fa8a1d7a046874660082a03bc1d6e514d11d45c6"/>
-		<Metadata name="CommonModule.exch_ОбменДаннымиПроверки.Module" id="04f72553-f8e5-470b-9054-62dc4673cc7e.0" configVersion="9174289267ab44dbd18d6b6e1c00c83eafed7688"/>
-		<Metadata name="CommonModule.ОбменДаннымиXDTOСервер" id="f49dc3ee-2ffe-475f-8a8c-1c0850f8df47" configVersion="34577dbbf6416fa3fc6b6fe3f82ff951d24b0d93"/>
-		<Metadata name="CommonModule.ОбменДаннымиXDTOСервер.Module" id="f49dc3ee-2ffe-475f-8a8c-1c0850f8df47.0" configVersion="4f5bcba9e83e371ca453b18551775e7fdfca42c7"/>
-		<Metadata name="CommonModule.ОбменДаннымиСервер" id="de9dadd8-014f-40be-9513-191469533b8c" configVersion="2bd2bd3fd65b3fbebcccd623f1b2f7b0e4d5fc30"/>
-		<Metadata name="CommonModule.ОбменДаннымиСервер.Module" id="de9dadd8-014f-40be-9513-191469533b8c.0" configVersion="0a1053536a5dfdd0d171ea928227f426a0367c9d"/>
-		<Metadata name="CommonModule.ОбменДаннымиСобытияБП" id="efd5f4f5-e5ca-414c-a24d-7d02b6c96ad3" configVersion="95a1eb7ab89b333612576832226bc048486c8790"/>
-		<Metadata name="CommonModule.ОбменДаннымиСобытияБП.Module" id="efd5f4f5-e5ca-414c-a24d-7d02b6c96ad3.0" configVersion="6c33ac52f431b722ed3cfd69b8930a043df4c786"/>
+		<Metadata name="CommonModule.exch_ОбменДаннымиПроверки.Module" id="04f72553-f8e5-470b-9054-62dc4673cc7e.0" configVersion="0afdff8575ea28745f01c555e9958b4d9186a963"/>
+		<Metadata name="CommonModule.ОбменДаннымиXDTOСервер" id="f49dc3ee-2ffe-475f-8a8c-1c0850f8df47" configVersion="c8bb12d788e2ada7419a563cd8efa003fe8dedbe"/>
+		<Metadata name="CommonModule.ОбменДаннымиXDTOСервер.Module" id="f49dc3ee-2ffe-475f-8a8c-1c0850f8df47.0" configVersion="325d1599b9ae5b3082ef6d9ed3d09fc7aa578e54"/>
+		<Metadata name="CommonModule.ОбменДаннымиСервер" id="de9dadd8-014f-40be-9513-191469533b8c" configVersion="f081e77318e2db75c86c562b6a9f0f2aeff30f97"/>
+		<Metadata name="CommonModule.ОбменДаннымиСервер.Module" id="de9dadd8-014f-40be-9513-191469533b8c.0" configVersion="3c8b7be0dff92caca2e080a45c1e3abf368578d7"/>
 		<Metadata name="CommonTemplate.exch_PinkRabbitMQ_AddIn" id="b49ebb17-9789-4eb7-ab50-03a3b7a1a508" configVersion="83f5f0cb1d46b492a36f130918fe6fa86abdb407"/>
 		<Metadata name="CommonTemplate.exch_PinkRabbitMQ_AddIn.Template" id="b49ebb17-9789-4eb7-ab50-03a3b7a1a508.0" configVersion="edd7617505bec8b81dbd5070d4cac020fc7fefd1"/>
 		<Metadata name="CommonTemplate.exch_PinkRabbitMQ_AddIn32" id="5ec0bd7a-9a88-498c-80fb-d203dcf86360" configVersion="a86ad0ffa2833ca03d865f932472da7d8b42dd56"/>
 		<Metadata name="CommonTemplate.exch_PinkRabbitMQ_AddIn32.Template" id="5ec0bd7a-9a88-498c-80fb-d203dcf86360.0" configVersion="05d1f873ca6ff3e7b26339a5847b69bfcfc7985f"/>
-		<Metadata name="Configuration.СобытийныйОбменДанными" id="d3058e3e-0f52-49c1-aacd-aa6d27459a51" configVersion="5baf31e7261b91566c0264cb7548b347b5e87cb4"/>
-		<Metadata name="DataProcessor.exch_НазначаемыеОбработчики" id="d818186e-3c37-45b2-9f3d-9240ed466f9c" configVersion="67ff73bdc17797b511b4ed9c05df5432a23f7315"/>
-		<Metadata name="DataProcessor.exch_НазначаемыеОбработчики.ObjectModule" id="d818186e-3c37-45b2-9f3d-9240ed466f9c.0" configVersion="225932a811499c1b07a1caed4709ea97db889d11"/>
+		<Metadata name="Configuration.СобытийныйОбменДанными" id="d3058e3e-0f52-49c1-aacd-aa6d27459a51" configVersion="01387d5643692e6cf818eeeb1ccf26f5e5fe64ec"/>
 		<Metadata name="DataProcessor.exch_ПомощникСозданияОбменаДанными" id="85c68eed-64d9-4dec-929f-805774d52a0e" configVersion="7e1126010f50adbbed20239415e5d08def9a933a">
 			<Metadata name="DataProcessor.exch_ПомощникСозданияОбменаДанными.Attribute.WSЗапомнитьПароль" id="0b2a6cff-e88e-4f3c-919d-3c81b22f1aeb"/>
 			<Metadata name="DataProcessor.exch_ПомощникСозданияОбменаДанными.Attribute.ЭтоНастройкаРаспределеннойИнформационнойБазы" id="101cccab-4865-4930-821c-541daa0f220a"/>
@@ -91,25 +89,27 @@
 			<Metadata name="DataProcessor.exch_ПомощникСозданияОбменаДанными.Attribute.ВидТранспортаСообщенийОбмена" id="fdd17673-2065-4e27-a062-c4f4786acc91"/>
 		</Metadata>
 		<Metadata name="DataProcessor.exch_ПомощникСозданияОбменаДанными.Form.ЗагрузкаНастроекXDTO" id="9f4bf551-51a1-4f51-91c2-4040db34e2ad" configVersion="c7d363f60decf1478a4af3be9e98abd71b2cf835"/>
-		<Metadata name="DataProcessor.exch_ПомощникСозданияОбменаДанными.Form.ЗагрузкаНастроекXDTO.Form" id="9f4bf551-51a1-4f51-91c2-4040db34e2ad.0" configVersion="55d3e29dda407210baa50240c8cd877a0c906b18"/>
+		<Metadata name="DataProcessor.exch_ПомощникСозданияОбменаДанными.Form.ЗагрузкаНастроекXDTO.Form" id="9f4bf551-51a1-4f51-91c2-4040db34e2ad.0" configVersion="94764dc174acb27ea056af76c0167340127121f7"/>
 		<Metadata name="DataProcessor.exch_ПомощникСозданияОбменаДанными.Form.НастройкаПодключения" id="31f0eab4-3dfc-47ed-902c-96676b146409" configVersion="23d91917ba52aef4f527432c33b94ca73cf2e482"/>
-		<Metadata name="DataProcessor.exch_ПомощникСозданияОбменаДанными.Form.НастройкаПодключения.Form" id="31f0eab4-3dfc-47ed-902c-96676b146409.0" configVersion="f8915d5c5229bddc36c91662b4be6ab5dc8c6847"/>
+		<Metadata name="DataProcessor.exch_ПомощникСозданияОбменаДанными.Form.НастройкаПодключения.Form" id="31f0eab4-3dfc-47ed-902c-96676b146409.0" configVersion="adf3f4c2a362aea55b0b948f8a5caf3edcde4861"/>
 		<Metadata name="DataProcessor.exch_ПомощникСозданияОбменаДанными.Form.НастройкаСинхронизации" id="c009ffd2-cef4-4627-9868-ec2de0443f6e" configVersion="190efdae495ed2857c5b156025e1eb6a48178df9"/>
-		<Metadata name="DataProcessor.exch_ПомощникСозданияОбменаДанными.Form.НастройкаСинхронизации.Form" id="c009ffd2-cef4-4627-9868-ec2de0443f6e.0" configVersion="56b4c44ec8386b17ad2fca58292bd7efc7be05ed"/>
+		<Metadata name="DataProcessor.exch_ПомощникСозданияОбменаДанными.Form.НастройкаСинхронизации.Form" id="c009ffd2-cef4-4627-9868-ec2de0443f6e.0" configVersion="4d3a2b2c2ccd51b93f2a9ec8b7b819a2ee85a28b"/>
 		<Metadata name="DataProcessor.exch_ПомощникСозданияОбменаДанными.Form.НоваяСинхронизацияДанных" id="081ee75b-d29f-41c8-bc12-90dcfbc52f77" configVersion="22d66f8fbdcd92b033778eae3abcfa3d6797abab"/>
-		<Metadata name="DataProcessor.exch_ПомощникСозданияОбменаДанными.Form.НоваяСинхронизацияДанных.Form" id="081ee75b-d29f-41c8-bc12-90dcfbc52f77.0" configVersion="600030a298f8866c5654beca03f17be226d667d9"/>
+		<Metadata name="DataProcessor.exch_ПомощникСозданияОбменаДанными.Form.НоваяСинхронизацияДанных.Form" id="081ee75b-d29f-41c8-bc12-90dcfbc52f77.0" configVersion="6d0364ab9e9b4f09628cd71b8be1984529b579b8"/>
 		<Metadata name="DataProcessor.exch_ПомощникСозданияОбменаДанными.Form.УдалениеНастройкиСинхронизации" id="b2358a40-fe13-4e0b-9a96-ea1220766d8e" configVersion="ed36463b95094b304c53cbd2b61ed327b9ec2e6a"/>
-		<Metadata name="DataProcessor.exch_ПомощникСозданияОбменаДанными.Form.УдалениеНастройкиСинхронизации.Form" id="b2358a40-fe13-4e0b-9a96-ea1220766d8e.0" configVersion="34b021946252aff9c5ac09fe2dd6a82bcb927277"/>
+		<Metadata name="DataProcessor.exch_ПомощникСозданияОбменаДанными.Form.УдалениеНастройкиСинхронизации.Form" id="b2358a40-fe13-4e0b-9a96-ea1220766d8e.0" configVersion="fe3679818a7bdc0badeed7cdc15054b6c86825e9"/>
 		<Metadata name="DataProcessor.exch_ПомощникСозданияОбменаДанными.Help" id="85c68eed-64d9-4dec-929f-805774d52a0e.1" configVersion="3125a4a2f0495b760467cb124afad34a488f8d1f"/>
-		<Metadata name="DataProcessor.exch_ПомощникСозданияОбменаДанными.ManagerModule" id="85c68eed-64d9-4dec-929f-805774d52a0e.2" configVersion="7eeafceae91dfc7b0d4e91736ae59de21b2f753a"/>
-		<Metadata name="DataProcessor.exch_ПомощникСозданияОбменаДанными.ObjectModule" id="85c68eed-64d9-4dec-929f-805774d52a0e.0" configVersion="e9592398b5faaa721dc628e17154ef5334e07f10"/>
-		<Metadata name="DataProcessor.exch_ТранспортСообщенийОбменаHTTPRabbitMQ" id="86270134-8188-4f5d-ad16-f2e05e60c643" configVersion="f1e48e49ba49982e239bab4618099528691e7c98"/>
+		<Metadata name="DataProcessor.exch_ПомощникСозданияОбменаДанными.ManagerModule" id="85c68eed-64d9-4dec-929f-805774d52a0e.2" configVersion="db6eabd08dee57caf6c5be9d80788dfe9de64106"/>
+		<Metadata name="DataProcessor.exch_ПомощникСозданияОбменаДанными.ObjectModule" id="85c68eed-64d9-4dec-929f-805774d52a0e.0" configVersion="4d63a723cdc47236f1b3831cd0e530b955220e42"/>
+		<Metadata name="DataProcessor.exch_ТранспортСообщенийОбменаHTTPRabbitMQ" id="86270134-8188-4f5d-ad16-f2e05e60c643" configVersion="57f619f59aa1b5282d4640ebb1de44e1b9aa2d67">
+			<Metadata name="DataProcessor.exch_ТранспортСообщенийОбменаHTTPRabbitMQ.Attribute.ШаблонИмениФайлаСообщения" id="cc615ee0-4d08-49b1-8b82-c00b3dcf77da"/>
+		</Metadata>
 		<Metadata name="DataProcessor.exch_ТранспортСообщенийОбменаHTTPRabbitMQ.Form.Форма" id="3a77595e-c531-4f20-8d20-9c82eb4dd079" configVersion="9247ec2a7b318a226a1e15cadc1434eb84735faa"/>
-		<Metadata name="DataProcessor.exch_ТранспортСообщенийОбменаHTTPRabbitMQ.Form.Форма.Form" id="3a77595e-c531-4f20-8d20-9c82eb4dd079.0" configVersion="6555815b1c74721e8e7eaaf1d7b61c7430c239a0"/>
-		<Metadata name="DataProcessor.exch_ТранспортСообщенийОбменаHTTPRabbitMQ.ObjectModule" id="86270134-8188-4f5d-ad16-f2e05e60c643.0" configVersion="9dc0d359d05a74ba2a836775f5b557c85308a5f6"/>
-		<Metadata name="DataProcessor.КонвертацияОбъектовXDTO" id="7283e616-0141-4abd-b785-a9456f92b3ed" configVersion="e21d35460e951a207f829711573de082f5db1d56"/>
-		<Metadata name="DataProcessor.КонвертацияОбъектовXDTO.ObjectModule" id="7283e616-0141-4abd-b785-a9456f92b3ed.0" configVersion="ddeb7726e8df6b0ca287443666e9d50f9e9b8bae"/>
-		<Metadata name="ExchangePlan.СинхронизацияДанныхЧерезУниверсальныйФормат_СИМ" id="0707116e-c58a-42e8-9cd7-f16749ad5b80" configVersion="d1db7cdc77f034ecc1142b64f741896a7a567d9d"/>
+		<Metadata name="DataProcessor.exch_ТранспортСообщенийОбменаHTTPRabbitMQ.Form.Форма.Form" id="3a77595e-c531-4f20-8d20-9c82eb4dd079.0" configVersion="f81abc83b4ed73456715b7eead21d27a9628cf77"/>
+		<Metadata name="DataProcessor.exch_ТранспортСообщенийОбменаHTTPRabbitMQ.ObjectModule" id="86270134-8188-4f5d-ad16-f2e05e60c643.0" configVersion="d379239913b96369a4016f7de6b4445da8940ac2"/>
+		<Metadata name="DataProcessor.КонвертацияОбъектовXDTO" id="7283e616-0141-4abd-b785-a9456f92b3ed" configVersion="6e5f1afbf6a7772324ca820407d1913da42751a0"/>
+		<Metadata name="DataProcessor.КонвертацияОбъектовXDTO.ObjectModule" id="7283e616-0141-4abd-b785-a9456f92b3ed.0" configVersion="00ab9572184037d2d1b77f937db1b68165278f24"/>
+		<Metadata name="ExchangePlan.СинхронизацияДанныхЧерезУниверсальныйФормат_СИМ" id="0707116e-c58a-42e8-9cd7-f16749ad5b80" configVersion="c6621eb8ade25e88c302da3fc4d1b559f9043e3e"/>
 		<Metadata name="Language.Русский" id="a4037593-bf6f-4d71-be56-32abc2b92272" configVersion="9f7815c1d35134a1ebd9cca3cc8cb315b78951ec"/>
 	</ConfigVersions>
 </ConfigDumpInfo>
